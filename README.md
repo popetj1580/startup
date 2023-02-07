@@ -12,3 +12,15 @@ IPv4 Address: 3.132.238.15
 
 Domain Name: popet.click
 
+## HTML Assignments
+
+Introduction: https://codepen.io/popet1580/pen/KKBYmbN
+
+Structure: https://codepen.io/popet1580/pen/RwBOLBd
+
+Input: https://codepen.io/popet1580/pen/KKBYXJN
+
+Media: https://codepen.io/popet1580/pen/VwBNMOg
+
+
+
