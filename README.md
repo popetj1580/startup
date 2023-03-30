@@ -1,12 +1,11 @@
-# startup
+# **startup**
 
-Change from local development environment (modified from GitHub)
-Change from GitHub
+## Elevator Pitch
 
-I got some practice using git. The thing I learned most is that resolving merge conflicts is not fun to do,
-so I plan to avoid that in future projects, if possible. When collaborating with other people, it is 
-important to communicate with each other to make the development process easier. I hope that I can better 
-learn how to use Git and GitHub to facilitate my code writing.
+My website will display a list of motivational quotes. A user can add a quote to the page by placing the quote into the text box at the top of the page. Once they enter the quote and click on the submit button, their quote will be added to the webpage. Then, users can read the list of quotes below by scrolling down.
 
-IPv4 Address: 3.132.238.15
+## Sketch
 
+Click [here](https://drive.google.com/file/d/1S7RJLaGR4iJGq7ZXSw5XvqT3jQjznINS/view?usp=sharing 'Startup Sketch') to see my sketch. 
+
+(I tried to render the image with Markdown, but it doesn't seem to like using Google drive share links...)
