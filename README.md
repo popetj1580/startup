@@ -9,3 +9,17 @@ My website will display a list of motivational quotes. A user can add a quote to
 Click [here](https://drive.google.com/file/d/1S7RJLaGR4iJGq7ZXSw5XvqT3jQjznINS/view?usp=sharing 'Startup Sketch') to see my sketch. 
 
 (I tried to render the image with Markdown, but it doesn't seem to like using Google drive share links...)
+Domain Name: popet.click
+
+## HTML Assignments
+
+Introduction: https://codepen.io/popet1580/pen/KKBYmbN
+
+Structure: https://codepen.io/popet1580/pen/RwBOLBd
+
+Input: https://codepen.io/popet1580/pen/KKBYXJN
+
+Media: https://codepen.io/popet1580/pen/VwBNMOg
+
+
+
