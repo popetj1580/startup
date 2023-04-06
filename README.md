@@ -22,5 +22,8 @@ Input: https://codepen.io/popet1580/pen/KKBYXJN
 
 Media: https://codepen.io/popet1580/pen/VwBNMOg
 
+## CSS Assignments
+
+CSS Practice: https://codepen.io/popet1580/pen/mdzdpNB
 
 
