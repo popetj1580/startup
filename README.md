@@ -12,6 +12,16 @@ Click [here](https://drive.google.com/file/d/1S7RJLaGR4iJGq7ZXSw5XvqT3jQjznINS/v
 
 (I tried to render the image with Markdown, but it doesn't seem to like using Google drive share links...)
 
+## Startup Learnings
+
+### HTML
+
+The HTML for this webpage was pretty simple and straightforward. Once I learned which element types I needed, it was just a matter of putting them in. Overall, it only took a few minutes to put all the HTML on the page the way I wanted it to look
+
+### CSS
+
+Getting the CSS to work how I wanted was a little bit more complicated. It took me a while to make the list of quotes take up the entire page, but I finally got it to work once I made the html and body elements take up 100% of the vertical space. Now that the CSS is done, I am very happy with how my page looks, including the changes with respect to screen size.
+
 ## HTML Assignments
 
 Introduction: https://codepen.io/popet1580/pen/KKBYmbN
