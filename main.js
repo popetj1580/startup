@@ -2,6 +2,12 @@ const quoteListEl = document.querySelector("#quoteList");
 const inputEl = document.querySelector("#quoteText");
 let quotes = [];
 
+inputEl.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+        addQuote();
+    }
+})
+
 function addQuote() {
     if (inputEl.value) {
         console.log("Function addQuote called.");
