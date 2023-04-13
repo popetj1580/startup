@@ -22,6 +22,10 @@ The HTML for this webpage was pretty simple and straightforward. Once I learned 
 
 Getting the CSS to work how I wanted was a little bit more complicated. It took me a while to make the list of quotes take up the entire page, but I finally got it to work once I made the html and body elements take up 100% of the vertical space. Now that the CSS is done, I am very happy with how my page looks, including the changes with respect to screen size.
 
+### Javascript
+
+The javascript that I put in was not too hard to figure out once I found the appropriate references within the Simon JS. One thing I found out with implementing the JS was that I didn't like some of what was happening with the CSS once I added enough quotes to the list to make the page require a scroll bar. I had to make a few tweaks to the CSS to make myself happier with the output. That goes to show how integrated the three technologies of HTML, CSS, and Javascript are.
+
 ## HTML Assignments
 
 Introduction: https://codepen.io/popet1580/pen/KKBYmbN
