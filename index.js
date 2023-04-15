@@ -28,7 +28,6 @@ app.listen(port, () => {
 });
 
 let quotes = [];
-
 function addQuote(quote) {
     quotes.push(quote);
     return quotes;
